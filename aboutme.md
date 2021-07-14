@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Mes centres d'intérêts et mon expérience professionnel
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Je m'appelle Matthieu Planchot, né le 18 avril 1994.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Mes centres d'intérêts
+* la culture japonaise : sa langue, son histoire, ses produits dérivés
+* sportif régulier mais généralement des sports individuels : natation, vélo, rameur
+* codeur : il y a toujours des projets à réaliser en dehors du travail ;)
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Mon expérience professionnel
+* Développeur (java) chez Dassault Systèmes depuis 2019
+* Étude à l'EPSI en alternance pour l'obtention d'un master de 2019 à 2022
+* Étude à St Jo Sup et obtention du diplôme de BTS SIO option SLAM en 2019
+  * création d'un [portfolio](http://mat.planchot.free.fr/)
+* Étude médicale : PACES et deuxième année de pharmacie 
