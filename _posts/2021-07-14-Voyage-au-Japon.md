@@ -7,7 +7,6 @@ thumbnail-img: https://lh3.googleusercontent.com/pw/AM-JKLUATn_6KgaZ5EkRURw7aVBE
 tags: [japon]
 ---
 
-### Voyage au japon 2011 - Avant Propos
 Il y a 10 ans, j’ai créé un blog pour relater mon aventure vers le pays du soleil levant. Ce blog a été supprimé mais j’ai gardé une trace dont voici le contenu. J’en profite pour le traduire en japonais et corriger quelques fautes d’orthographes. J’ajoute aussi des images et des anecdotes, tout en gardant le déroulé original.
 
 ### La création du blog
