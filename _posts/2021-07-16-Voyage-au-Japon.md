@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Voyage au Japon 2011 - Premier Jour
-subtitle: 2011年日本への旅行・1日目
+title: Voyage au Japon 2011 - Deuxième Jour
+subtitle: 2011年日本への旅行・2日目
 cover-img: https://lh3.googleusercontent.com/pw/AM-JKLWI59-DmIHVss7Tw6CKxflIzjRA5Hcrju_oFmFhE_XeqrW8P9KpNXm8wcAzJFoE93rb5cV244Wt3pkmY5sLB6nd7p8fpWgBIwYwgUvc1nXpI85wI2a0t7jRJY9fn4iJiYzKRGKGMV9BvhoIRaHZJRZW=w2416-h1358-no?authuser=0
 thumbnail-img: https://lh3.googleusercontent.com/pw/AM-JKLU_QPxF1bTqWtO9Zpyk3TQKjZ1Y6Xk5m1Uao7upaL9AsSOu6AblPKB15PYQFkOirsQPtkGSZMhtko5452IhbgqyYSz5Rjy8U82wZTZ5kDA0NCXGeNJn1OjrsGOiesD8zN3ZpynBUG7wFR-jEyl6CQdn=w2416-h1358-no?authuser=0
 tags: [japon]
