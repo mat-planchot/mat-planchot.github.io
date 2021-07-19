@@ -34,7 +34,7 @@ Enfin je suis revenu à la maison, mais là encore j'ai eu du mal avec la gare d
 A côté de la gare il y a un parc et un garage à vélo. J'étais impressionné par sa taille. De l'autre côté de la gare, j'ai reconnu le chemin et je suis rentré sans problème. 
 C’est très enrichissant d'être dans un pays étranger sans visite guidée. Il faut parler la langue et s'orienter mais le mieux c'est quand même d'être dans une famille d'accueil ! 
 
-### 3日目
+### 4日目
 
 日本語レッスン初日。 授業は午前9時10分に始まるので、午前7時に起きて、シャワーを浴びて、食事をして、約35分で学校に行きます。 今回はよく眠れました。
 
