@@ -2,8 +2,8 @@
 layout: post
 title: Voyage au Japon 2011 - Neuvième Jour
 subtitle: 2011年日本への旅行・9日目
-cover-img: https://lh3.googleusercontent.com/pw/AM-JKLV6U-kxT5oIp1PjUtIKQgz_MrFvJ5ZedLMgyC3eFhOvcUkRZzGhoMaXYtNpVUjzBwZuN2CA9mbcConnKfWtjFM2XB_n3HcyJy2gMX3B4nsQa5CWxdz2JyTU10hqInn3zNO8U9FbyR7Iv-UZIcFM1B7h=w1723-h969-no?authuser=0
-thumbnail-img: https://lh3.googleusercontent.com/pw/AM-JKLVOp8asH_4qKtyUGZYqflIU3_jJ9POcKT4c5qvLY9Jt-wWxoogul1Tfu1rzfNa117I2_ajGaZBXwKBphb23pZYwaZjYh5RyPRQ7gmOm2CcNP5Cd1wdy1tw4mbJFCrCNFbTRH0FKgGHfL9kOKFou4EXX=w1723-h969-no?authuser=0
+cover-img: https://lh3.googleusercontent.com/pw/AM-JKLVOp8asH_4qKtyUGZYqflIU3_jJ9POcKT4c5qvLY9Jt-wWxoogul1Tfu1rzfNa117I2_ajGaZBXwKBphb23pZYwaZjYh5RyPRQ7gmOm2CcNP5Cd1wdy1tw4mbJFCrCNFbTRH0FKgGHfL9kOKFou4EXX=w1723-h969-no?authuser=0
+thumbnail-img: https://lh3.googleusercontent.com/pw/AM-JKLV6U-kxT5oIp1PjUtIKQgz_MrFvJ5ZedLMgyC3eFhOvcUkRZzGhoMaXYtNpVUjzBwZuN2CA9mbcConnKfWtjFM2XB_n3HcyJy2gMX3B4nsQa5CWxdz2JyTU10hqInn3zNO8U9FbyR7Iv-UZIcFM1B7h=w1723-h969-no?authuser=0
 tags: [japon]
 ---
 

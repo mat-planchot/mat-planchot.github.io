@@ -2,7 +2,7 @@
 layout: post
 title: Voyage au Japon 2011 - Huitième Jour
 subtitle: 2011年日本への旅行・8日目
-cover-img: https://lh3.googleusercontent.com/pw/AM-JKLX_BJUlbiSmM8YPrhu93u8RgRxbO_wPzg0SSZsHqIhB8uHUpACBf6FQuxqdwJHFkRxIA21tYUq1VIDD9wEoLR_rEYNNJ-U7u3t9VKJssQEX_9tUWpFpS0kwnyvjRdjFyhuY00VTDhX0MBcHI6035fM6=w2806-h1578-no?authuser=0
+cover-img: https://lh3.googleusercontent.com/pw/AM-JKLUBXty94PS8PsT_NqjPJdfomdbSmCT1A7-bTsvUu42ognD_5MZjw5DDW3Q8Dij5dnCEYrt6BLQsAFxF7fPKmLv_p3vSYeA017hCM6JQgHH7yKbemkv64JrKNXVi8wElmAWq1LEcOAhQYLs2OE_usZLu=w2806-h1578-no?authuser=0
 thumbnail-img: https://lh3.googleusercontent.com/pw/AM-JKLUe6ZJez5w8ykZzYaT1FoZBIs1n98seP5DGNFkbot6LiWs5bure8VFgZzdmn1xMDnVABAyqgbAWymA4UGXyJTy-u--vDXcCV4QagbnEfrBeVMTvYL6sEzVvjKama6HCyuLCwpYlJjgQenxsvt-IOch4=w1723-h969-no?authuser=0
 tags: [japon]
 ---
