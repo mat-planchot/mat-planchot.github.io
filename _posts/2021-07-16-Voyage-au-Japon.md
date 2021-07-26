@@ -9,9 +9,9 @@ tags: [japon]
 
 ### Deuxième jour
 
-Hier soir, j’ai regardé la moitié du film One Piece Strong World et j’ai mangé du riz, de la salade et de la soupe. J’étais presque le seul a mangé, Naomi-san ne mange pas le soir et Issei-san ne mange qu’une salade pour un régime.
+Hier soir, j’ai regardé la moitié du film One Piece Strong World et j’ai mangé du riz, de la salade et de la soupe. J’étais presque le seul a mangé, Naomi ne mange pas le soir et Issei ne mange qu’une salade pour un régime.
 
-Aujourd'hui j’étais avec ma famille d’accueil. J’ai bien dormi, jusqu’à a 8h 40. C’est Naomi-san qui m’a réveillé en me disant que nous prenions le petit-déjeuner dans un restaurant puisque c’est dimanche. Elle m’a dit qu’il y avait eu un séisme vers 4h du matin mais j’étais profondément endormi. 
+Aujourd'hui j’étais avec ma famille d’accueil. J’ai bien dormi, jusqu’à a 8h 40. C’est Naomi qui m’a réveillé en me disant que nous prenions le petit-déjeuner dans un restaurant puisque c’est dimanche. Elle m’a dit qu’il y avait eu un séisme vers 4h du matin mais j’étais profondément endormi. 
 
 ![petit-déjeuner japonais](https://lh3.googleusercontent.com/pw/AM-JKLWbS8gdvWawhOjsBbAAWKbCvSqDDc6htEVKdkDyilB5oiqwr64MnS08aTyDCSXZ9gOMFVWASpOMpappLXQoALOZrhbOkpROUggYhI5aCufK5HW5LqENz8u1hhLBV46fYwt9k3Bcmql8nPfF-cOMWMTp=w2416-h1358-no?authuser=0)
 Après avoir pris une douche nous sommes allés au restaurant et j’ai mangé mon premier petit-déjeuner japonais. Ensuite nous avons pris le train jusqu’à Suidobashi (l’endroit où se trouve l’école Kudan) pour que je mémorise le trajet. Après avoir repérer les lieux, nous avons pris un taxi pour nous rendre à Akihabara, le quartier des mangas et de l’électronique. Les taxis au Japon sont très chers pour environ 5 km c’est environ 800 yens alors que le train c'est 210 yens. 
@@ -33,9 +33,9 @@ J’ai vraiment de la chance d’être au Japon dans une famille si gentille.
 
 ### 2日目
 
-昨夜、ワンピース映画作品の半分を見て、ご飯、サラダ、スープを食べました。食べたのは私だけで、ナオミさんは夜は食べず、イッセイさんはサラダだけを食べました。
+昨夜、ワンピース映画作品の半分を見て、ご飯、サラダ、スープを食べました。食べたのは私だけで、ナオミは夜は食べず、イッセイはサラダだけを食べました。
 
-今日はホストファミリーと一緒でした。朝8時40分までよく眠れました。日曜日なのでレストランで朝食をとっていると言って目が覚めたのはナオミさんでした。彼女は午前4時頃に地震があったと私に言ったが、私はぐっすり眠っていた。
+今日はホストファミリーと一緒でした。朝8時40分までよく眠れました。日曜日なのでレストランで朝食をとっていると言って目が覚めたのはナオミでした。彼女は午前4時頃に地震があったと私に言ったが、私はぐっすり眠っていた。
 
 シャワーを浴びた後、レストランに行き、私の最初の日本の朝食を食べました。それから電車で水道橋（九段学校あり）に行き、ルートを覚えました。場所を特定した後、タクシーで秋葉原に行きました。タクシーで漫画と電子の地区である秋葉原に行きました。日本のタクシーは５キロで約８００円と非常に高いです。
 

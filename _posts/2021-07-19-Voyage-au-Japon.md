@@ -17,7 +17,7 @@ Après avoir bien mangé, j'ai pris le métro pour voir la tour de Tokyo. La tou
 
 ![tokyo tawa no ue](https://lh3.googleusercontent.com/pw/AM-JKLUhFesjLSCtnv8wD6KNLL1CCY8nx3soLlZKffmUDJcdzze1izH602tIwahw8mLZdu2KOToHEZ2iaziSTNo3xTgWpfNnuka6FBdmFPh_I1a5tc6UwX3nQMsKDkcc4DaMDDK81z-FQOj5hh_ILjw9ZskM=w2806-h1578-no?authuser=0)
 
-Je voulais voir le temple qui était près de la tour mais il y avait une pluie torrentielle donc je suis rentré à Shinkoiwa. En arrivant à la maison, j'étais trempé, je me suis changée et Naomi-san m'a montré comment utiliser la machine à laver. 
+Je voulais voir le temple qui était près de la tour mais il y avait une pluie torrentielle donc je suis rentré à Shinkoiwa. En arrivant à la maison, j'étais trempé, je me suis changée et Naomi m'a montré comment utiliser la machine à laver. 
 
 ![restaurant japonais](https://lh3.googleusercontent.com/pw/AM-JKLUfLetVVsnBG18-dkJWtP_8yy5x-k-mWQwxA8pTbKhhklaNqOFk5stjoFXb6KbMv5tRVJPDXPqC3TOUfprVKRjG0xvtDIUR7dmEdgyhiWq-xFIZ_7I6ZGSO7-_GawHpoE0tv32Hq00RHveFXOnS3TOW=w2806-h1578-no?authuser=0)
 
@@ -29,6 +29,6 @@ Le soir nous sommes allés manger dans un restaurant typiquement japonais, on é
 
 よく食べた後、地下鉄に乗って東京タワーを見に行きました。東京タワーはエッフェル塔のように見えますが、少し大きめです。 250メートルのエレベーターの頂上に行きました。そこからは東京一面が印象的ですが、どんよりした天気で雨が降りました。
 
-塔の近くにあるお寺を見たかったのですが、雨が降っていたので新小岩に戻りました。家に帰るとびしょ濡れになり、着替えてナオミさんが洗濯機の使い方を教えてくれました。
+塔の近くにあるお寺を見たかったのですが、雨が降っていたので新小岩に戻りました。家に帰るとびしょ濡れになり、着替えてナオミが洗濯機の使い方を教えてくれました。
 
 夕方、典型的な日本食レストランに行き、畳の上に座りました。それは本当に美味しかったです ！それから私達は公園を通って戻ってきました、それは川に沿って、狭いですが非常に長いです。

@@ -9,7 +9,7 @@ tags: [japon]
 
 ### Onzième jour
 
-Aujourd' hui j'ai mangé avec Issei et Naomi dans le quartier où travaille Issei, Marunouchi. Il y a beaucoup d'entreprises et c'est en plein centre de Tokyo. Ensuite Issei-san est retourné travailler et Naomi-san a fait un peu de shopping. 
+Aujourd' hui j'ai mangé avec Issei et Naomi dans le quartier où travaille Issei, Marunouchi. Il y a beaucoup d'entreprises et c'est en plein centre de Tokyo. Ensuite Issei est retourné travailler et Naomi a fait un peu de shopping. 
 
 ![jardin est palais impérial](https://lh3.googleusercontent.com/pw/AM-JKLWtfoLw5Ea10w8D0TqwWBz-t45A0K1I77u5jYMdrrj5SJJXEBqCCQMz_kLp6JDfp29I6N8i_tnysiA6RYZWQ6AfZ_4Po92Z8rqFincIvJfwoR0LZgZ9lu8GC2rjXQb0CNiMUVY1xfDZj-DUxRh5lJpt=w2806-h1578-no?authuser=0)
 

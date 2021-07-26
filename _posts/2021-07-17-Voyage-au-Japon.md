@@ -21,7 +21,7 @@ Je suis allé manger dans un restaurant de ramen près de l'école. C'était une
 _J'en ai profité pour prendre un omikuji_
 ![omikuji](https://lh3.googleusercontent.com/pw/AM-JKLVgct5tF17FwVohesYyTUOn9owN-9uejEeh8f4q_--yIWoQbuT_LhsRccPyLxj9FrFFFggs461sM-i9ySnVV4RuC2qx1Kj9FjzOKSNvoDD_c6p91lgdnmMDRjmF24XWIdk0QjH4mzV-I6Co8St_RbSt=w2212-h1244-no?authuser=0)
 
-Ensuite je suis revenu à Suidobashi par la gare la proche. Sur le chemin j'ai acheté le shonen jump mais j'étais assez surpris. J'avais déjà lu le scan de one piece en français alors qu'il n'était pas encore paru dans le jump du 1er août. De retour à la maison, j'ai regardé une émission amusante avec Naomi-san et je lui ai montré mes photos. Vers 20h30, j'ai mangé du porc, de la salade, du riz et de la soupe avec quelques nouilles. 
+Ensuite je suis revenu à Suidobashi par la gare la proche. Sur le chemin j'ai acheté le shonen jump mais j'étais assez surpris. J'avais déjà lu le scan de one piece en français alors qu'il n'était pas encore paru dans le jump du 1er août. De retour à la maison, j'ai regardé une émission amusante avec Naomi et je lui ai montré mes photos. Vers 20h30, j'ai mangé du porc, de la salade, du riz et de la soupe avec quelques nouilles. 
 
 ### 3日目
 
@@ -33,4 +33,4 @@ Ensuite je suis revenu à Suidobashi par la gare la proche. Sur le chemin j'ai a
 
 散歩をした後、なんとか湯島史跡と第二神殿を見ました。_おみくじを取りました。_
 
-それから近くの駅で水道橋に戻りました。途中で少年ジャンプを買いましたが、びっくりしました。 私はすでに8月1日のジャンプにワンピースを読んでいました。家に帰って、ナオミさんと一緒に楽しいショーを見て、写真を見せました。午後8時30分頃、豚肉、サラダ、ご飯、スープを食べました。
+それから近くの駅で水道橋に戻りました。途中で少年ジャンプを買いましたが、びっくりしました。 私はすでに8月1日のジャンプにワンピースを読んでいました。家に帰って、ナオミと一緒に楽しいショーを見て、写真を見せました。午後8時30分頃、豚肉、サラダ、ご飯、スープを食べました。

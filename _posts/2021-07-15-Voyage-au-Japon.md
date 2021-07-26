@@ -15,7 +15,7 @@ J’étais tellement excité que je me suis réveillé sans mon réveil a 6 h 30
 
 Arrivé au japon, j’ai repris la valise et quelqu’un m’attendait en sortant du terminal avec une pancarte jaune de l’école Kudan. J’ai rencontré une élève allemande de la même école. Ensuite la japonaise qui m’avait accueilli m’a accompagné au bus pour rejoindre Tokyo parce que l’aéroport est à une heure du centre de Tokyo. Je suis sorti au terminus du bus comme indiqué par cette personne. 
 
-À la sortie du bus, j'ai rencontré Issei-san le père de ma famille d’accueil _(-san est un titre honorifique qui peut signifier Monsieur ou Madame)_. Il m’escorta jusqu’à sa voiture une Honda et me dit qu’un étudiant américain Max logeait encore chez eux et qu'il s'en irait le jour même. Nous sommes donc allés chez eux pour que je dépose mes bagages. Arrivé là-bas, j’ai rencontré Max et Naomi-san la femme de Issei-san.
+À la sortie du bus, j'ai rencontré Issei le père de ma famille d’accueil. Il m’escorta jusqu’à sa voiture une Honda et me dit qu’un étudiant américain Max logeait encore chez eux et qu'il s'en irait le jour même. Nous sommes donc allés chez eux pour que je dépose mes bagages. Arrivé là-bas, j’ai rencontré Max et Naomi la femme de Issei.
 
 Nous sommes allés manger dans un restaurant chinois pas très loin et le couple a payé le restaurant. J’ai voulu payer ma part, mais ils m’ont dit que c’était eux nous l’offrait _(en fait, je pense que c'était par obligation mais aussi parce qu'ils sont très gentil et par esprit japonais ils se sentait dans l'obligation de bien nous recevoir :)_. 
 
@@ -23,9 +23,11 @@ Nous sommes allés manger dans un restaurant chinois pas très loin et le couple
 
 Après manger, nous sommes allés à la gare pour raccompagner l’étudiant américain qui prenait le chemin du retour vers l'aéroport. Ainsi, j’ai pu repérer où était la gare et Max m’a donné son ancienne carte pour le train (la carte suica). J’en ai profité pour acheter des tickets de train sur la carte. _Une rencontre d'un jour, je n'oublierai pas Max et son tempérament si jovial RIP_
 
+![bibliothèque de manga](https://lh3.googleusercontent.com/pw/AM-JKLUPJTp9j690l9pxdGHPojQvFsDTaD7lXsgOPweIQUjJDMV1hC04PctUd0-yrONmt2llZDhsT2fcUG5K4isS_92vhyuVIuJaC6EgqJ_mM4Id78RwNB4umQKCPNwB6yJ1biJfK3VcMWi7cbEbEydZK6C7=w2416-h1358-no?authuser=0)
+
 En revenant de la gare, nous sommes passés par une galerie avec plein de petits commerces. Ensuite, nous sommes allés dans une librairie où il y avait plein de manga, tous en japonais bien sûr. 
 
-![bibliothèque de manga](https://lh3.googleusercontent.com/pw/AM-JKLUPJTp9j690l9pxdGHPojQvFsDTaD7lXsgOPweIQUjJDMV1hC04PctUd0-yrONmt2llZDhsT2fcUG5K4isS_92vhyuVIuJaC6EgqJ_mM4Id78RwNB4umQKCPNwB6yJ1biJfK3VcMWi7cbEbEydZK6C7=w2416-h1358-no?authuser=0)
+![maison de Tokyo](https://lh3.googleusercontent.com/pw/AM-JKLUbeiJ9GqxFFErUkJaaHIwXRIaqIyued8g8hfgxu5D0auayFnGjh0zAeN4TLVBSC_QJWc6JTBQSNnerbV5Wq_M3P1sRrKVciCE2Hkv0tJXZMyPljJhs5KizJPdarIUCoz5UvvGvZyuZG7BrEd9flirD=w2160-h1216-no?authuser=0)
 
 On est revenu à la maison (eh oui, ce n'est pas un appartement, mais une petite maison sans jardin). Les maisons de Tokyo sont très petites très serrées et sans jardin pour la plupart. 
 
@@ -39,7 +41,7 @@ Ils sont très gentils. _Je n'avais pas pensé à prendre d'ordinateur pour pouv
 
 日本に到着した、スーツケースを手に取り、誰かが九段学校から黄色い看板を持って私を待っていました。 同じ学校のドイツ人学生に会いました。 それから、空港は東京の中心部から1時間のところにあるので、迎えてくれた日本人女性が東京に行くためにバスに連れて行った。。 この人の指示通りにバスの終着で降りました。
 
-バスを降りると、里親の父であるイッセイさんに会いました。 彼は私を彼の車であるホンダに連れて行ってくれ、アメリカ人の学生マックスはまだ彼らと一緒にいて、彼はその同じ日に出発するだろうと私に言った。 それで私たちは荷物を降ろすために彼らの場所に行きました。 そこに着くと、MAXとナオミさんに会いました。
+バスを降りると、里親の父であるイッセイに会いました。 彼は私を彼の車であるホンダに連れて行ってくれ、アメリカ人の学生マックスはまだ彼らと一緒にいて、彼はその同じ日に出発するだろうと私に言った。 それで私たちは荷物を降ろすために彼らの場所に行きました。 そこに着くと、MAXとナオミに会いました。
 
 私たちはそう遠くない中華料理店に行き、カップルはレストランの代金を払いました。 自分の分を支払いたかったのですが、彼らはそれを私たちに提供しているのだと私に言いました _(実際、それは義務によるものだと思いますが、彼らはとても親切で、日本の精神によって私たちをうまく受け入れる義務があると感じています:)_。
 
