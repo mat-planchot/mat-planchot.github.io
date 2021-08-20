@@ -16,6 +16,8 @@ Je suis allé à Nakano pour faire les derniers achats, j'ai acheté le deuxièm
 
 ![kitsune](https://lh3.googleusercontent.com/pw/AM-JKLUTjBCDs3rEYmbY3W9ol_9ZQoeTEKe-rzsh4ZbDh4KcCqrDKV5tj86y_MqVgW7Mjo7BUGLCC-Ibdqgp6EkXabG4-OfcfY94T2tRukkI2n5USdOuuQsi5YQrZc3haDBczD-UJBU7gwT-nnl1diY8oV-X=w2160-h1216-no?authuser=0)
 
+![ramen](https://lh3.googleusercontent.com/pw/AM-JKLWJK4NlJo7eYGM455eviM_lTtE_Qm-oi8Ybujq9b_MivSA50MNctgg5IjjGLLbn23EKAKCv_xH8nHvfY2rjPKI7ZkppIbnvzfLW74aCLblOvHpMGV86xVUmK8z6Q48gHoiJeAggGD0kDxUeXN2OKeM9=w2160-h1216-no?authuser=0)
+
 ### 20日目
 
 旅はもうすぐ終わります。
