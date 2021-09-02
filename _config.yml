@@ -16,6 +16,7 @@ author: Matthieu Planchot
 navbar-links:
   About Me: "aboutme"
   Links:
+    - Mon voyage au Japon: "https://mat-planchot.github.io/2021-07-14-Voyage-au-Japon/"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - RCN Diex Aïe: "https://rcn-diex-aie.fr/"
