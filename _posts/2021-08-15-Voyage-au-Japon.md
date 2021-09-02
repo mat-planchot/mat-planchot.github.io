@@ -43,4 +43,4 @@ Après avoir mangé j'ai joué au shogi (jeu d'échecs japonais) avec Issei et j
 
 地下鉄と電車で帰ってきましたが、川と夕焼けの写真を撮りたかったので、新小岩の手前の駅に停車しました。
 
-食べた後、イッセイと将棋をして勝ちました。
+食べた後、一成と将棋をして勝ちました。
