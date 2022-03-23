@@ -19,4 +19,4 @@ Je m'appelle Matthieu Planchot, né le 18 avril 1994.
 * Étude médicale : PACES et deuxième année de pharmacie 
 
 ### CV
-![CV Matthieu PLANCHOT](assets/img/Matthieu%20PLANCHOT.png)
+![CV Matthieu PLANCHOT](assets/img/MatthieuPLANCHOT.png)
