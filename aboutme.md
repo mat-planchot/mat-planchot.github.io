@@ -17,3 +17,6 @@ Je m'appelle Matthieu Planchot, né le 18 avril 1994.
 * Étude à St Jo Sup et obtention du diplôme de BTS SIO option SLAM en 2019
   * création d'un [portfolio](http://mat.planchot.free.fr/)
 * Étude médicale : PACES et deuxième année de pharmacie 
+
+### CV
+![CV Matthieu PLANCHOT](assets/img/Matthieu%20PLANCHOT.png)
